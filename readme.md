@@ -4,10 +4,13 @@ This WIKI is WIP right now....
 
 
 ### Wiki Pages
-[Maps Lore & Details](/pages/maps-selection.md)<br>
 [Liveries & Train stocks](/pages/trains/trains.md)<br>
 [Rockport Metropolitan Universe Lore]()<br>
 [Rockport Metropolitan Copyright](https://github.com/Rockport-Metropolitan-Development#rmdt-copyright)
+## Maps Detail pages
+[gm_metro_ruralline](/pages/gm_metro_ruralline.md)
+## Maps Lore
+[gm_metro_ruralline Lore](/pages/gm_metro_ruralline-lore.md)
 
 ### Credits & Developer information.
 #### Developer:
