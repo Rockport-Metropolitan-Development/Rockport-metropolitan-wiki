@@ -8,4 +8,4 @@
 [gm_metro_ruralline](/pages/maps/gm_metro_ruralline.md)
 
 ## Maps Lore
-[gm_metro_ruralline Lore](/pages/maps-selection.md)
+[gm_metro_ruralline Lore](/pages/maps-lore/gm_metro_ruralline-lore.md)
