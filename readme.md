@@ -4,7 +4,8 @@ This WIKI is WIP right now....
 
 
 ### Wiki Pages
-[Liveries & Train stocks](/pages/trains/trains.md)<br>
+[Liveries](https://github.com/Rockport-Metropolitan-Development/Rockport-metropolitan-skinpack/wiki)<br>
+[Train stocks]()<br>
 [Rockport Metropolitan Universe Lore]()<br>
 [Rockport Metropolitan Copyright](https://github.com/Rockport-Metropolitan-Development#rmdt-copyright)
 ## Maps Detail pages
