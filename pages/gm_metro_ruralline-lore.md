@@ -2,24 +2,29 @@
 [Return to Homepage](/readme.md)<br>
 [Return to Maps selection page](/pages/maps-selection.md)
 
-In this page, you can read about ruralline's own Lore, This lore details more the line owns history while the Global-lore tells more about the whole Universe.
-This lore only tells about the LVP-side history due line was extended to rockport in 1996 so there is no reason to write detailed history of that stub.
+In this page, you can read about ruralline's own lore. This lore details more about the line's own history, while the global lore tells more about the whole universe.
+This lore only tells about the LVP-side history due line was extended to Rockport in 1996, so there is no reason to write a detailed history of that stub.
 
-## 1900 - 1935 :
-First plans of a T23 tram line was planned to come from Lakeview central station all the way to the Today's Market Street station.<br>
-The whole 1900 - 1935 years were huge battle with landowners, This came to end in 1935 due shifting politics in the country. 
+## 1900 - 1935  :
+Market Street Line's (or Ruralline) history starts in the summer of 1900 with Lakeview town planning a tram network to better connect the small towns on the outskirts of the town.
 
-## 1935 - 1950 :
-Due war damages, shifting political parties, Region becoming Sovereign country.<br>
-Not lot of planning was made and most of lines were closed. 
+But in many small towns, citizens did not want a cityfolk coming to their towns and scarning the horses with sielent-moving metal boxes. Lakeview officials were in huge battles with landowners and town leaders about plans. This lasted until 1935, when the politics of the region had changed quickly.
+
+## 1935 - 1950 (WW2) :
+The years from 1935 to 1950 were hard for the region due to changes in politics, war damage, and other shitstorms.
+
+During the last months of the war, the region became sovereign country called Kramasko and ever since has been a Western coutry middle of Soviet ocean. (read more about coutnry history in the Global-Lore)
+
+During the wartime most of Lakeview was bombed with Rockport over the river. Planning of tram network did go on but slowly.
 
 ## 1950 - 1960 :
-After country becoming sovereign, Lakeview metropolitan was closed by the city and new company Lakeview transport (LVP) was created.<br>
-**1955** saw LVP starting to revive old tram lines and converting some of the lines to Subway test lines, This saw plan of TR23 getting replanned and becoming M52.<br>
-Construction was meant to start in 1956 but political shitstorm was so huge that planning of the subway network was slow.<br>
-in 1958 subway stock deal with American's fell thru due gauge and power network issues.
-1960 saw LVP ordering subway stock from Russia due their compatibility with the subway Infrastructure from RPM. 
+In the summer of 1952, Lakeview revisted the tram plan and decided to build a subway. This became much easier due to almost the whole downtown being bombed during the war. In January of 1953, City released its subway plan, with a lot of joy from citizens. The same time project did draw some doubts from Rockport, as Lakeview was a small city with a very small downtown. Rockport estimated that the whole 12-line plan would not span out.
 
+The city did show plans for new tram and bus networks at the same time. The whole subway network was planned as a semi-overground and was more of a testing network, as city officials did not have good ideas on the lineheading and style. Due to the Cold War in the summer, LVP had to abort the order of USA-made subway trains due to USSR blocking and forcing Kramasko to use mostly Eastern-block goods to stay sovereign. LVP placed an order for 24-waggons of D-type for Ruralline. Subway design was taken from RPM, as RPM was already building subways in USSR and its own mix style.
+
+In 1954, the final routing of the lines and station locations was decided. In January of 1995, building works for all 12 subway lines started, and at the same time, the tram and bus networks started to operate. Between 1955 and 1960, the easiest lines were first built, and Ruralline was left in the last category with 3 other lines.
+
+> - End of Rewritten part.. 
 ## 1960 - 1970 :
 1961 building on M52 started, alr in 1962 first section between Lakeview City Hall - Urban Park was open and in service, Tunnel section to Ravenholm & rocklake was finished in 1964, Tunnelling works were easy due soft rockbed of the region. <br>
 Line was opened to the service in 1965 with 8 three wagon sets of 81-702's.Due landowner issues Line did not open with depot. Tunnel tracks for future Rocklake depot were build.<br>
@@ -54,10 +59,9 @@ M52 became last line in 1986 as LVP closed all other lines and sold most of the 
 1993 Lakeview transport was announced bankrupted and all services of the LVP were overtaken by the city, City ran LVP's subway to 1997 when Underwater tunnels were done, As in 1997 RPM came and bought whole M52 line from City so lakeview city could finally kill the LVP, City had alr in 1995 ended all LVP's trams & bus services and started city owned company, Subway was something none wanted to buy due it's small size and lack of maintenance of the infrastructure and stock.
 
 ## 1997 - 2005 : 
-When RPM bought ruralline, in 1998 they started many year rehabilitation & rebuilt project due how infrastructure  was build,
-And due lack of maintenance, the tracks between Urban Park - Market street had lot of slow orders and even few substations needed to be rebuilt.
+When RPM bought ruralline in 1998, they started many-year rehabilitation and rebuilding projects due to how infrastructure was built in the early years. Because of a lack of maintenance, the tracks between Urban Park and Market Street had a lot of slow orders, and even a few substations needed to be rebuilt due to their age and lack of spare parts.
 
-2005: whole project was done and line under RPM colours. 
+In 2005, all rehabilitation and rebuilding projects were done, and Line was fully moved under RPM company colours and dispatching system.
 
 ### Stock used on the line (Under LVP)
 - 81-702 (D type)
